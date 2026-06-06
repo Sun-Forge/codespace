@@ -1,8 +1,5 @@
 {
-  "name": "Codespace",
   "hostRequirements": {
-    "cpus": 4,
-    "memory": "8gb",
-    "storage": "64gb"
+    "storage": "128gb"
   }
 }
